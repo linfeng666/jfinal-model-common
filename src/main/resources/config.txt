@@ -1,0 +1,14 @@
+modelName = jfinal-model-common
+modelPath = com.soulmate.model
+
+dbNameList = test1,test2
+
+test1.host = 127.0.0.1
+test1.port = 33306
+test1.dbUser = root
+test1.dbPassword = xtkj@2024
+
+test2.host = 127.0.0.1
+test2.port = 33306
+test2.dbUser = root
+test2.dbPassword = xtkj@2024
